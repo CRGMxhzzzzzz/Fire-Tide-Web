@@ -10,7 +10,7 @@
 在2024年12月16日，FT正式从Antide的暴政中诞生并独立；自此由TimonDessauQwQ主导开发的网页UI FireTide 在此诞生！
 但是现在又有了新的选择，那就是Source tide
 
-[关于](./other/About.md)|[开发人员](./开发人员名单.md)
+[开发人员](./开发人员名单.md)
 
 ### 安装教程
 
