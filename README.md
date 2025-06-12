@@ -1,9 +1,5 @@
 # Source tide
 
-### 语言
-
-中文 | [English](./README.en.md)
-
 ### 介绍
 
 # Fire Tide从Antide的暴政中存活并独立！那我们就上Source tide
